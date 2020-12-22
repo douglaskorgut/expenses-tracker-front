@@ -1,0 +1,21 @@
+.Card {
+    height: 75%;
+    width: 30%;
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    border-width: 0 0 15px 0; /* top right bottom left */
+    border-style: solid;
+    background-color: white;
+    /*box-shadow: 2px 2px 3px black;*/
+}
+
+.Green {
+    border-color: limegreen;
+}
+
+.Red {
+    border-color: red;
+}

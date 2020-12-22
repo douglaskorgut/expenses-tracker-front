@@ -1,0 +1,8 @@
+.CardHeader{
+    /*display: flex;*/
+    align-self: flex-start;
+    padding-left: 10px;
+    height: 20%;
+    font-family: "Montserrat",sans-serif;
+    /*font-size: 17px;*/
+}

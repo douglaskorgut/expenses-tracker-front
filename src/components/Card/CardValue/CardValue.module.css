@@ -1,0 +1,6 @@
+.CardValue {
+    display: flex;
+    align-self: flex-start;
+    padding-left: 10px;
+    font-family: Montserrat, sans-serif;
+}
