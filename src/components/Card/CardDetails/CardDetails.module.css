@@ -1,0 +1,6 @@
+.CardDetails {
+    display: flex;
+    height:55%;
+    width: 100%;
+    align-items: center;
+}

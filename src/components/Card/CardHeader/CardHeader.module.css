@@ -2,7 +2,15 @@
     /*display: flex;*/
     align-self: flex-start;
     padding-left: 10px;
-    height: 20%;
+    height: 15%;
     font-family: "Montserrat",sans-serif;
     /*font-size: 17px;*/
+}
+
+.Info {
+    height: 15%;
+}
+
+.Main {
+    height: 10%;
 }

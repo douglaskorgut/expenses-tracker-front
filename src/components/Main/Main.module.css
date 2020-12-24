@@ -1,22 +1,15 @@
-.Card {
-    height: 75%;
+.Main {
+    height: 100%;
     width: 30%;
     display: flex;
     /*justify-content: center;*/
-    align-self: flex-end;
     align-items: center;
     flex-direction: column;
+    align-self: flex-end;
     border-radius: 5px;
     border-width: 0 0 15px 0; /* top right bottom left */
     border-style: solid;
     background-color: ghostwhite;
+    border-color: cadetblue;
     /*box-shadow: 2px 2px 3px black;*/
-}
-
-.Green {
-    border-color: limegreen;
-}
-
-.Red {
-    border-color: red;
 }

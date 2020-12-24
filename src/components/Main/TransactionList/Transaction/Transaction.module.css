@@ -1,0 +1,13 @@
+.Transaction {
+
+}
+
+.Income {
+    background-color: white;
+    /*background-color: #eaffeb;*/
+}
+
+.Expense {
+    /*background-color: #ffede8;*/
+    background-color: white;
+}

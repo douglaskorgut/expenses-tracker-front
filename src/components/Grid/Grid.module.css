@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 70%;
+    height: 80%;
     width: 100%;
     position: absolute;
+    padding-top: 5%;
 }
